@@ -1,4 +1,4 @@
-# Atividade Gr-fico
+# Atividade Gráfico
 Este repositório contém a atividade de Visualização de Dados de Estoque com Matplotlib.
 
 ## Conteúdo
